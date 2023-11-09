@@ -1,4 +1,4 @@
-# This repository was created with the intention of practicing javascript. At the end of the learning, a data search project was made to display only a specific data
+# In this repository I show a little of the javascript language learning process, such as basic structures, repetition loops, control structure, etc.
 <div align="center">
 <img src =".\src\MiniProject.gif" width="700" height="400"/>
 </div>
